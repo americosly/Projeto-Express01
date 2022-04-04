@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/americosly/Projeto-Express01#readme",
   "dependencies": {
+    "body-parser": "1.18.2",
     "express": "4.16.2",
     "nodemon": "^2.0.15"
   }
